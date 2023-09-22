@@ -1,0 +1,8 @@
+D:\C#\Formating\Formating\bin\Debug\Formating.exe.config
+D:\C#\Formating\Formating\bin\Debug\Formating.exe
+D:\C#\Formating\Formating\bin\Debug\Formating.pdb
+D:\C#\Formating\Formating\obj\Debug\Formating.csproj.AssemblyReference.cache
+D:\C#\Formating\Formating\obj\Debug\Formating.csproj.SuggestedBindingRedirects.cache
+D:\C#\Formating\Formating\obj\Debug\Formating.csproj.CoreCompileInputs.cache
+D:\C#\Formating\Formating\obj\Debug\Formating.exe
+D:\C#\Formating\Formating\obj\Debug\Formating.pdb
