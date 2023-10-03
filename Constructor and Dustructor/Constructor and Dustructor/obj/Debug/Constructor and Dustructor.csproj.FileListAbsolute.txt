@@ -1,0 +1,8 @@
+D:\C#\Constructor and Dustructor\Constructor and Dustructor\bin\Debug\Constructor and Dustructor.exe.config
+D:\C#\Constructor and Dustructor\Constructor and Dustructor\bin\Debug\Constructor and Dustructor.exe
+D:\C#\Constructor and Dustructor\Constructor and Dustructor\bin\Debug\Constructor and Dustructor.pdb
+D:\C#\Constructor and Dustructor\Constructor and Dustructor\obj\Debug\Constructor and Dustructor.csproj.AssemblyReference.cache
+D:\C#\Constructor and Dustructor\Constructor and Dustructor\obj\Debug\Constructor and Dustructor.csproj.SuggestedBindingRedirects.cache
+D:\C#\Constructor and Dustructor\Constructor and Dustructor\obj\Debug\Constructor and Dustructor.csproj.CoreCompileInputs.cache
+D:\C#\Constructor and Dustructor\Constructor and Dustructor\obj\Debug\Constructor and Dustructor.exe
+D:\C#\Constructor and Dustructor\Constructor and Dustructor\obj\Debug\Constructor and Dustructor.pdb
