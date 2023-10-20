@@ -1,0 +1,8 @@
+D:\C#\Value and Reference Types\Value and Reference Types\bin\Debug\Value and Reference Types.exe.config
+D:\C#\Value and Reference Types\Value and Reference Types\bin\Debug\Value and Reference Types.exe
+D:\C#\Value and Reference Types\Value and Reference Types\bin\Debug\Value and Reference Types.pdb
+D:\C#\Value and Reference Types\Value and Reference Types\obj\Debug\Value and Reference Types.csproj.AssemblyReference.cache
+D:\C#\Value and Reference Types\Value and Reference Types\obj\Debug\Value and Reference Types.csproj.SuggestedBindingRedirects.cache
+D:\C#\Value and Reference Types\Value and Reference Types\obj\Debug\Value and Reference Types.csproj.CoreCompileInputs.cache
+D:\C#\Value and Reference Types\Value and Reference Types\obj\Debug\Value and Reference Types.exe
+D:\C#\Value and Reference Types\Value and Reference Types\obj\Debug\Value and Reference Types.pdb
