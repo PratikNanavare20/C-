@@ -1,0 +1,8 @@
+D:\C#\Implicit and Explicit variables\Implicit and Explicit variables\bin\Debug\Implicit and Explicit variables.exe.config
+D:\C#\Implicit and Explicit variables\Implicit and Explicit variables\bin\Debug\Implicit and Explicit variables.exe
+D:\C#\Implicit and Explicit variables\Implicit and Explicit variables\bin\Debug\Implicit and Explicit variables.pdb
+D:\C#\Implicit and Explicit variables\Implicit and Explicit variables\obj\Debug\Implicit and Explicit variables.csproj.AssemblyReference.cache
+D:\C#\Implicit and Explicit variables\Implicit and Explicit variables\obj\Debug\Implicit and Explicit variables.csproj.SuggestedBindingRedirects.cache
+D:\C#\Implicit and Explicit variables\Implicit and Explicit variables\obj\Debug\Implicit and Explicit variables.csproj.CoreCompileInputs.cache
+D:\C#\Implicit and Explicit variables\Implicit and Explicit variables\obj\Debug\Implicit and Explicit variables.exe
+D:\C#\Implicit and Explicit variables\Implicit and Explicit variables\obj\Debug\Implicit and Explicit variables.pdb
